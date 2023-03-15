@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Trang Lam
 
-- 🔭 I’m currently working on <a href="https://github.com/AriesCoder/Getting-Github-Repos-iOSApp.git">an iOS app called Github Repos</a>
+- 🔭 I’m currently working on an iOS app called <a href="https://github.com/AriesCoder/Getting-Github-Repos-iOSApp.git">Github Repos</a>
 - 🌱 I’m currently learning iOS Development and Mobile App Development.
 - 📫 How to reach me:  - ms.tranglam@gmail.com
                        - https://www.linkedin.com/in/tranglam/
