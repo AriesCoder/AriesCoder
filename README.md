@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Trang Lam
+
+- 🌱 I’m currently learning iOS Development and Mobile App Development.
+- 📫 How to reach me: 📩 - ms.tranglam@gmail.com
+                      ![image](https://user-images.githubusercontent.com/78071452/225436429-0635106d-cf7d-475d-9390-5307cc9ba98d.png) - https://www.linkedin.com/in/tranglam/
+
 
 <!--
 **AriesCoder/AriesCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
